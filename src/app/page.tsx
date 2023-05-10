@@ -3,7 +3,7 @@ export default function Home(){
     <main className="flex-1">
       <section className="flex justify-center">
         <div className="my-16 flex flex-wrap  justify-center gap-24">
-          <div className="max-w-4xl text-center text-6xl font-bold text-[#FFFFFF] flex flex-col justify-center gap-24">
+          <div className="max-w-4xl text-center text-6xl md:text-2xl font-bold text-[#FFFFFF] flex flex-col justify-center gap-24">
             <h2 className="">Que tal usar estampas que expressam o seu imenso amor por Cristo?</h2>
             <h3 className="">Vista a palavra de Deus!</h3>
           </div>
@@ -12,7 +12,7 @@ export default function Home(){
           </div>
         </div>
       </section>
-      <div className="flex justify-center items-center my-7 font-bold">
+      <div className="flex justify-center items-center my-7 font-bold md:text-sm">
           <a className="flex-1 max-w-[310px] h-[75px] bg-[#FAA307] px-3 rounded-xl flex items-center justify-center font-bold duration-500 hover:scale-110" href="https://api.whatsapp.com/send/?phone=%2B5522999401838&text&type=phone_number&app_absent=0"><img className="w-[35px] h-[35px] mr-2 justify-self-start" src="/wppicon.svg" alt="Whatsapp ícone" /> Enviar mensagem</a>
       </div>
     </main>

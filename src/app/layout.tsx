@@ -23,7 +23,7 @@ export default function RootLayout({
           <div className="flex flex-1 justify-center ml-44 md:ml-0">
             <img className="w-[152px] ml-[150px] md:ml-0" src="/logo.svg" alt="logo" />
           </div>
-          <div className="flex justify-end mr-20 md:mr-3 md:mt-4">
+          <div className="flex justify-end mr-20 md:mr-3 md:mt-4 md:text-sm">
             <a className="h-[45px] bg-[#FAA307] px-3 rounded-xl flex items-center justify-center font-bold duration-500 hover:scale-110" href="/" target="_blank"><img className="w-[35px] h-[35px] mr-2 justify-self-start" src="/imageicon.svg" alt="Imagem ícone" /> Acessar Galeria</a>
           </div>
         </header>
