@@ -13,8 +13,9 @@ export default function Home(){
         </div>
       </section>
       <div className="flex justify-center items-center my-7 font-bold md:text-sm">
-          <a className="flex-1 max-w-[310px] h-[75px] bg-[#FAA307] px-3 rounded-xl flex items-center justify-center font-bold duration-500 hover:scale-110" href="https://api.whatsapp.com/send/?phone=%2B5522999401838&text&type=phone_number&app_absent=0"><img className="w-[35px] h-[35px] mr-2 justify-self-start" src="/wppicon.svg" alt="Whatsapp ícone" /> Enviar mensagem</a>
+        <a className="flex-1 max-w-[310px] h-[75px] bg-[#FAA307] px-3 rounded-xl flex items-center justify-center font-bold duration-500 hover:scale-110" href="/" target="_blank"><img className="w-[35px] h-[35px] mr-2 justify-self-start" src="/imageicon.svg" alt="Imagem ícone" /> Acessar Galeria</a>
       </div>
     </main>
   )
 }
+
