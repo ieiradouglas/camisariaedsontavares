@@ -15,8 +15,8 @@ export default function Home(){
         </div>
       </section>
       <div className="flex flex-col justify-center gap-7 items-center my-7 font-bold md:text-sm">
-        <Link className="w-[280px] h-[55px] bg-[#FAA307] px-3 rounded-xl flex items-center justify-center duration-500 hover:scale-110" href="/galeria" target="_self"><img className="w-[35px] h-[35px] mr-2 justify-self-start" src="/imageicon.svg" alt="Imagem ícone" /> Acessar Galeria</Link>
-        <a className="w-[280px] h-[55px] bg-[#FAA307] px-3 rounded-xl flex items-center justify-center duration-500 hover:scale-110" href="https://api.whatsapp.com/send/?phone=%2B5522999401838&text&type=phone_number&app_absent=0"><img className="w-[35px] h-[35px] mr-2 justify-self-start" src="/wppicon.svg" alt="Whatsapp ícone" /> Enviar mensagem</a>
+        <Link className="w-[280px] h-[55px] bg-[#FAA307] px-3 rounded-xl flex items-center justify-center duration-150 hover:scale-110" href="/galeria" target="_self"><img className="w-[35px] h-[35px] mr-2 justify-self-start" src="/imageicon.svg" alt="Imagem ícone" /> Acessar Galeria</Link>
+        <a className="w-[280px] h-[55px] bg-[#FAA307] px-3 rounded-xl flex items-center justify-center duration-150 hover:scale-110" href="https://api.whatsapp.com/send/?phone=%2B5522999401838&text&type=phone_number&app_absent=0"><img className="w-[35px] h-[35px] mr-2 justify-self-start" src="/wppicon.svg" alt="Whatsapp ícone" /> Enviar mensagem</a>
       </div>
     </>
   )
