@@ -3,6 +3,10 @@
 ## Introdução
 
 Essa documentação visa apenas informar o objetivo do projeto.
+![image](https://github.com/ieiradouglas/camisariaedsontavares/assets/44785888/53c6bfad-6438-406f-9d4f-2dc932607b67)
+![image](https://github.com/ieiradouglas/camisariaedsontavares/assets/44785888/88210401-2c56-4498-ae53-5443f1df1044)
+![image](https://github.com/ieiradouglas/camisariaedsontavares/assets/44785888/5839a775-b1c3-4af9-9cd9-ce28980ad47a)
+
 
 ## Descrição do Projeto
 
@@ -24,6 +28,9 @@ O projeto consiste em um portfólio online e simples, com algumas informações 
 -   HTML5, CSS3 e Next.js para criação da interface
 - Tailwind CSS para estilização da página
 
+## Visite o site
+
+`https://camisariaedsontavares.vercel.app/`
 
 ## Instalação
 
