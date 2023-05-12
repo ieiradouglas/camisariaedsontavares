@@ -5,7 +5,7 @@
 Essa documentação visa apenas informar o objetivo do projeto.
 ![image](https://github.com/ieiradouglas/camisariaedsontavares/assets/44785888/53c6bfad-6438-406f-9d4f-2dc932607b67)
 ![image](https://github.com/ieiradouglas/camisariaedsontavares/assets/44785888/88210401-2c56-4498-ae53-5443f1df1044)
-![image](https://github.com/ieiradouglas/camisariaedsontavares/assets/44785888/5839a775-b1c3-4af9-9cd9-ce28980ad47a)
+![image](https://github.com/ieiradouglas/camisariaedsontavares/assets/44785888/4df1a1a1-4731-44b9-bdf7-b451240a5f2c)
 
 
 ## Descrição do Projeto
