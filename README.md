@@ -1,34 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Documentação do Projeto
 
-## Getting Started
+## Introdução
 
-First, run the development server:
+Essa documentação visa apenas informar o objetivo do projeto.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Descrição do Projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O projeto consiste em um portfólio online e simples, com algumas informações básicas sobre o estilo da camisaria.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Funcionalidades
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+-   Acesso à galeria de fotos
+- Contato direto através do WhatsApp
 
-## Learn More
+### Requisitos
 
-To learn more about Next.js, take a look at the following resources:
+-   O sistema deve ser acessível por navegadores web
+-   O sistema deve permitir ampliar a foto para melhor visualização
+-   O sistema deve permitir que o usuário faça contato rápido com fornecedor
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Tecnologias Utilizadas
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+-   HTML5, CSS3 e Next.js para criação da interface
+- Tailwind CSS para estilização da página
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Instalação
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Para instalar o projeto, siga os seguintes passos:
+
+1.  Clone o repositório:
+
+bashCopy code
+
+`git clone https://github.com/ieiradouglas/camisariaedsontavares.git` 
+
+2.  Instale as dependências:
+
+`npm install` 
+
+3. Inicialize a aplicação
+
+`npm run dev` 
+
+4.  Abra o navegador e acesse o endereço:
+
+`http://localhost:3000` 
