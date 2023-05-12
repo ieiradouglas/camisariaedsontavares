@@ -30,7 +30,7 @@ O projeto consiste em um portfólio online e simples, com algumas informações 
 
 ## Visite o site
 
-`https://camisariaedsontavares.vercel.app/`
+https://camisariaedsontavares.vercel.app/
 
 ## Instalação
 
